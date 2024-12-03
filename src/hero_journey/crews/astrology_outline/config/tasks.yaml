@@ -1,0 +1,79 @@
+
+# Mike nueva Task
+create_astrological_profile:
+  description: >
+    Analiza la carta natal proporcionada para construir un perfil psicológico profundo del individuo, centrado exclusivamente en su carácter, mundo emocional y potencial personal. Utiliza las posiciones de Sol, Luna, Ascendente, Mercurio, Venus, Marte y los aspectos relevantes para explorar:
+    - La identidad esencial y la manera en que el individuo se percibe a sí mismo.
+    - La forma en que gestiona y experimenta sus emociones.
+    - Su estilo de comunicación, acción y relaciones.
+    - Las incoherencias inherentes y contradicciones psicológicas que generan conflictos internos.
+    - Las cualidades que definen sus fortalezas y virtudes.
+    - Los desafíos psicológicos que enfrenta en su desarrollo personal.
+
+  expected_output: >
+    El resultado debe ser un análisis psicológico extenso, bien estructurado y detallado. La respuesta debe integrar las interpretaciones astrológicas de los elementos mencionados, incluyendo ejemplos concretos para ilustrar los puntos. Un ejemplo de respuesta para una carta natal podría ser el siguiente:
+    El análisis debe seguir la estructura, tono y profundidad del ejemplo proporcionado a continuación, pero adaptarse al caso específico en función de las posiciones y aspectos planetarios únicos.    Análisis Extendido de Kai
+    Ascendente en Leo El viaje hacia la autenticidad
+    El Ascendente en Leo otorga a Kai una presencia magnética, un deseo innato de destacar y un impulso por encontrar su identidad a través de la autoafirmación. Desde joven, puede haber sentido una necesidad de "brillar", enfrentándose a situaciones donde figuras externas, como miembros de su familia o amigos, eclipsaron su propia luz. Esto puede haber generado inseguridades sobre su lugar en el mundo y una lucha constante por encontrar su propio centro.
+    La energía de Leo lo empuja a ser creativo y valiente, pero el aprendizaje esencial para Kai es irradiar desde su autenticidad, no desde una máscara creada para complacer a otros. En su infancia, la validación externa probablemente fue crucial, pero con el tiempo, aprenderá que su valor no depende de los aplausos. El reto del Ascendente en Leo es equilibrar la necesidad de ser admirado con la autoaceptación genuina, superando el temor a ser ignorado.
+    Sol en Piscis en la Casa 7 Una identidad sensible y relacional
+    El Sol en Piscis otorga a Kai una naturaleza profundamente empática, espiritual y orientada hacia la conexión emocional. En la Casa 7, su identidad está entrelazada con sus relaciones, encontrando su propósito en los vínculos con otros. Sin embargo, esta posición también sugiere que Kai puede perderse en los demás, sacrificando partes esenciales de sí mismo en su afán por conectar y complacer.
+    Piscis añade una cualidad soñadora y una gran intuición a su personalidad. Kai tiene la capacidad de captar lo intangible, las emociones sutiles y los matices de las personas a su alrededor. Es un visionario, pero su desafío es evitar la evasión emocional y la tendencia a idealizar, tanto a sí mismo como a los demás.
+    El Sol en Piscis aporta una vulnerabilidad que, si no está bien gestionada, puede convertirlo en un héroe mártir, alguien que sacrifica demasiado por los demás. Sin embargo, cuando integra esta energía, Kai se convierte en una figura de gran fortaleza interna, capaz de inspirar y guiar a quienes le rodean desde un lugar de autenticidad y compasión.
+    Luna en Capricornio en la Casa 5 Fortaleza emocional y restricción afectiva
+    La Luna en Capricornio introduce una austeridad emocional que contrasta con la sensibilidad del Sol en Piscis. Kai ha crecido en un entorno donde el afecto pudo haberse mostrado como algo condicional, ligado al rendimiento o a la autosuficiencia. Este patrón lo lleva a reprimir sus necesidades emocionales, sintiendo que debe ser fuerte para no ser vulnerable.
+    En la Casa 5, esta Luna busca expresarse a través de la creatividad y las relaciones afectivas. Sin embargo, su naturaleza reservada puede limitar su capacidad para conectar emocionalmente de manera espontánea. Kai tiende a controlar sus emociones, mostrando cariño a través de acciones concretas más que con palabras o gestos visibles.
+    El desafío de esta Luna es abrirse a recibir afecto y aprender que la vulnerabilidad no es una debilidad. Cuando logra superar su tendencia a la autosuficiencia emocional, Kai descubre una capacidad única para sostener a otros sin perderse a sí mismo.
+    Otros Elementos Clave de su Personalidad
+    Mercurio en Acuario en la Casa 6 Innovador, analítico y pragmático
+    Mercurio en Acuario otorga a Kai una mente independiente y orientada hacia el futuro. En la Casa 6, esta posición lo hace destacar en el trabajo y en su capacidad para analizar problemas de manera lógica y desapegada. Sin embargo, este Mercurio puede parecer distante o frío, especialmente en temas emocionales, dificultando la conexión con los demás desde un lugar más cálido.
+    Venus en Capricornio en la Casa 5 Amor con propósito
+    Venus en Capricornio refleja un enfoque serio y comprometido hacia las relaciones. Kai valora las conexiones estables y es leal, pero su tendencia a mantener el control puede dificultar que los demás perciban su profundidad emocional. En la Casa 5, busca expresar su amor a través de la creatividad, aunque puede enfrentarse a conflictos internos entre su deseo de estabilidad y su necesidad de explorar relaciones más espontáneas.
+    Marte en Libra en la Casa 3 Acción diplomática y comunicativa
+    Marte en Libra dota a Kai de un estilo de acción equilibrado y diplomático, pero su indecisión puede ser un problema. En la Casa 3, esta posición lo hace apasionado en la comunicación y defensor de sus ideas, pero también puede evitar confrontaciones directas, retrasando la resolución de conflictos.
+    Incoherencias Internas Profundas
+    1. Sensibilidad vs. Autosuficiencia
+    Kai vive una contradicción constante entre la sensibilidad extrema de su Sol en Piscis y la austeridad emocional de su Luna en Capricornio. Por un lado, anhela una conexión emocional profunda; por otro, teme la vulnerabilidad que esta requiere. Esta incoherencia lo lleva a proyectar una imagen de fortaleza mientras oculta su necesidad de afecto.
+    2. Individualidad vs. Validación Externa
+    El Ascendente en Leo busca brillar de manera única, pero su Sol en Piscis tiende a diluirse en los demás. Esta lucha entre la autoafirmación y el sacrificio por los demás puede hacer que Kai se sienta dividido entre seguir su camino o adaptarse a las necesidades ajenas.
+    3. Expresión Creativa vs. Control Emocional
+    La Luna y Venus en Capricornio moderan la energía creativa e intensa de su Ascendente en Leo. Esto genera una tensión entre su deseo de expresarse libremente y su necesidad de controlar la forma en que lo hace, limitando su espontaneidad.
+    4. Innovación vs. Conexión Emocional
+    Mercurio en Acuario aporta innovación y lógica, pero puede aislarlo emocionalmente. Este rasgo entra en conflicto con la empatía de su Sol en Piscis, creando momentos donde Kai puede parecer frío o distante a pesar de su intención de conectar.  
+ 
+  agent: astrology_interpreter
+
+create_character_profile:
+  description: >
+    Basándote en el análisis astrológico anterior, desarrolla un perfil de personaje 
+    que integre los elementos astrológicos de manera coherente y narrativa. EL personaje debe ser la persona de la carta natal.
+
+    Analiza y profundiza:
+
+    1. Personalidad:
+        - Integra las virtudes y dificultades identificadas
+        - Explora cómo los aspectos planetarios moldean su comportamiento
+        - Describe su manera de relacionarse con el mundo
+
+    2. Arco de desarrollo:
+        - Usa los desafíos astrológicos como puntos de crecimiento
+        - Identifica patrones de comportamiento a transformar
+        - Define el potencial de evolución del personaje
+
+    3. Misión y propósito:
+        - Conecta la misión astrológica con motivaciones concretas
+        - Establece objetivos alineados con su propósito
+        - Define qué busca lograr en su vida
+
+    4. Escenario y ambiente:
+        - Crea un entorno que refleje los elementos astrológicos
+        - Diseña situaciones que desafíen y apoyen su crecimiento
+        - Integra elementos simbólicos relacionados con su carta natal
+  expected_output: >
+    Un perfil de personaje estructurado que incluya:
+    - Descripción detallada de la personalidad y su origen astrológico
+    - Análisis de virtudes y desafíos como elementos de desarrollo
+    - Misión y motivaciones claras
+    - Tono emocional y energético del personaje
+    - Escenario y elementos narrativos que apoyen su desarrollo
+  agent: story_consultant

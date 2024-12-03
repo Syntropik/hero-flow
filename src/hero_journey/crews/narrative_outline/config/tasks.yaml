@@ -1,0 +1,64 @@
+hero_journey_outline:
+   description: >
+      hero_journey_outline:
+   description: >
+      INSTRUCCIÓN CRÍTICA Y ABSOLUTA:
+      El protagonista de esta historia DEBE ser {character_profile[name]}.
+      ESTÁ ESTRICTAMENTE PROHIBIDO cambiar el nombre del protagonista.
+      CUALQUIER otro nombre será considerado un error grave.
+      
+      Desarrolla una estructura narrativa siguiendo EXACTAMENTE las siguientes etapas del Viaje del Héroe.
+      Cada capítulo DEBE mantener EXACTAMENTE el título proporcionado en la estructura.
+
+      Perfil del protagonista:
+      - Nombre: {character_profile[name]}
+      - Personalidad: {character_profile[personality_traits]}
+      - Motivaciones: {character_profile[motivations]}
+      - Conflictos: {character_profile[conflicts]}
+      - Arco del personaje: {character_profile[character_arc]}
+      - Relaciones: {character_profile[relationships]}
+
+      1. El Mundo Ordinario:
+         - Descripción detallada del entorno y vida inicial del protagonista
+         - Conexiones con elementos de la carta natal que definen su punto de partida
+         - Establecimiento del contexto y situación inicial
+
+      2. La Llamada a la Aventura:
+         - El evento catalizador que rompe el equilibrio
+         - Aspectos planetarios que impulsan el cambio
+         - Resistencias y dudas iniciales del protagonista
+
+      3. Encuentro con el Mentor:
+         - Descripción del mentor y su rol
+         - Conexiones con planetas benéficos que representan guía y sabiduría
+         - Lecciones y herramientas proporcionadas
+
+      4. Cruce del Umbral:
+         - El momento decisivo de abandonar lo conocido
+         - Aspectos astrológicos que marcan la transición
+         - Primeros pasos en el nuevo mundo
+
+      5. Pruebas, Aliados, Enemigos:
+         - Descripción de los desafíos principales
+         - Personajes clave y su relación con aspectos planetarios
+         - Aprendizajes y crecimiento durante esta fase
+
+      6. Enfoque a la Cueva Más Profunda:
+         - Preparación para el desafío principal
+         - Aspectos astrológicos que intensifican la tensión
+         - Miedos y dudas previas al momento crucial
+
+      7. La Prueba:
+         - El conflicto central y su resolución
+         - Conexiones con aspectos planetarios críticos
+         - Transformación personal del protagonista
+
+      8. El Regreso:
+         - La vuelta al mundo ordinario transformado
+         - Aspectos astrológicos que reflejan el cambio
+         - Impacto y lecciones aprendidas
+
+   expected_output: >
+      Un objeto BookOutline que DEBE contener EXACTAMENTE 8 capítulos con los títulos especificados, manteniendo el nombre del protagonista y la coherencia narrativa a lo largo de toda la historia.
+   agent: hero_journey_expert
+

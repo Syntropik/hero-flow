@@ -1,0 +1,44 @@
+write_chapter:
+   description: >
+      INSTRUCCIÓN CRÍTICA: 
+      El protagonista de esta historia es {character_profile[name]}.
+      NO CAMBIES ESTE NOMBRE bajo ninguna circunstancia.
+
+      Perfil del Protagonista:
+      - Nombre: {character_profile[name]}
+      - Personalidad: {character_profile[personality_traits]}
+      - Motivaciones: {character_profile[motivations]}
+      - Conflictos: {character_profile[conflicts]}
+      - Arco del personaje: {character_profile[character_arc]}
+      - Relaciones: {character_profile[relationships]}
+
+      Título del capítulo: {chapter_title}
+      Descripción: {chapter_description}
+
+
+      Basándote en la estructura del BookOutline, desarrolla el contenido narrativo completo del capítulo asignado. 
+      El capítulo debe estar escrito con una prosa rica y envolvente, utilizando descripciones vívidas y detalladas 
+      que sumerjan al lector en el mundo de la historia. La narración debe mantener un ritmo fluido y natural, 
+      alternando hábilmente entre pasajes descriptivos, narrativos y diálogos.
+
+      El desarrollo del protagonista debe realizarse principalmente a través de una narración en tercera persona 
+      que revele su mundo interior mediante acciones, reacciones y monólogo interior indirecto. La evolución 
+      psicológica del personaje debe mostrarse de forma gradual y orgánica a lo largo del capítulo.
+
+      La escritura debe hacer uso efectivo de recursos literarios como metáforas y símiles, manteniendo un 
+      estilo consistente que construya tensión narrativa mediante el manejo cuidadoso del tiempo y el ritmo. 
+      Es importante mantener la coherencia con la voz narrativa establecida, desarrollar las subtramas de 
+      manera natural e integrar sutilmente elementos recurrentes y simbólicos que enriquezcan la historia.
+
+      El capítulo debe ser escrito en formato Markdown, con un mínimo de 3.000 palabras y siguiendo las 
+      convenciones estilísticas de la novela literaria contemporánea.
+
+   expected_output: >
+      Un capítulo completo que incluya:
+      - Prosa narrativa rica y envolvente
+      - Desarrollo profundo de personajes mediante técnicas novelísticas
+      - Equilibrio entre narración, descripción y diálogos
+      - Manejo efectivo de recursos literarios y tensión narrativa
+      - Formato Markdown y mínimo de 3.000 palabras
+   agent: creative_writer
+

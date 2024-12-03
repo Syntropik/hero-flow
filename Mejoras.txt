@@ -1,0 +1,22 @@
+Mejoras:
+- Implementar custom tools para los nuevos endpoints de la api
+- Automatizar el guardado de outputs 
+- 
+
+Diseñar entorno de pruebas:
+- Implementar código numerico de tasks y agents usados para llegar al resultado
+- Espacio en el que compartir resultados para poder comparar (entre tasks, prompts,modelos,etc)
+-
+
+Cambios API:
+- Implementar endpoints específicos para los agentes url/qibook/nombreLibro/personalidad  etc...
+	- Personalidad: Sol, Ascendente
+	- Emocional: Luna
+	- Relacional: Marte, Mercurio, Venus
+	- Aspectos_Armonicos: trigonos, sextiles
+	- Aspectos_Tensos: Cuadraturas, Oposiciones, Conjunciones
+
+	-Mirar Emma y India, porque falla?
+
+Outlines: 
+- Probar con retos y dificultades de los elementos en si o de los inherentes a las posiciones.
