@@ -1,0 +1,207 @@
+
+# Mike nueva Task
+sla_astrological_profile:
+  description: >
+    Realiza un análisis astrológico del niño basado en su Sol, Luna y Ascendente.  
+    Elabora un perfil psicológico que explore las características principales de estos elementos y cómo se manifiestan en su vida diaria.  
+    Describe:
+      - Cualidades clave de cada elemento (positivas y desafiantes) de manera práctica y generalizada.
+      - Ejemplos cotidianos de cómo estas cualidades se reflejan en sus comportamientos típicos en casa, la escuela y con amigos.  
+      - Contrastes y posibles tensiones entre las influencias del Sol, Luna y Ascendente.
+      - Relación entre estos elementos y cómo contribuyen a su desarrollo personal y emocional.
+    Evita abstracciones o metáforas; enfócate en patrones de comportamiento que un niño pueda identificar en sí mismo.
+
+  expected_output: >
+    1. Influencias principales:
+      - Sol: lista de cualidades, cómo se manifiestan en la vida diaria del niño (ej. en juegos, interacciones escolares o familiares).
+      - Luna: características emocionales y cómo impactan su vida cotidiana.
+      - Ascendente: su proyección exterior y comportamiento en contextos sociales.
+    2. Ejemplos cotidianos específicos que reflejen estas cualidades (en tareas escolares, relaciones con amigos o dinámicas familiares).  
+    3. Identificación de conflictos internos entre los tres elementos (ej. "quiere destacar pero teme no ser suficiente").  
+    4. Análisis final que resuma cómo las energías del Sol, Luna y Ascendente influyen en su identidad y relaciones personales.
+
+  example_output: >
+    Influencias astrológicas clave:
+    1. Sol en Piscis:
+    - Cualidades principales: Empatía, intuición, imaginación y una fuerte conexión
+    con el mundo emocional.
+    - Cómo se manifiesta en Kai: Su naturaleza soñadora y comprensiva el
+    hace destacar entre sus amigos, pero también le puede llevar a diluirse en
+    las necesidades de los demás.
+    2. Ascendente en Leo:
+    - Cualidades principales: Necesidad de brillar, seguridad exterior aparente,
+    deseo de reconocimiento.
+    - Cómo se manifiesta en Kai: Muestra una actitud confiada en situaciones
+    sociales, pero a menudo es una máscara para ocultar sus inseguridades
+    internas.
+    3. Luna en Capricornio:
+    - Cualidades principales: Resiliencia, autocontrol emocional, tendencia a
+    reprimir emociones.
+    - Cómo se manifiesta en Kai: Reprime sus emociones por miedo a
+    parecer débil, lo que le hace desconfiar de mostrar su
+    vulnerabilidad.
+    Conflictos internos relacionados con la astrología:
+    - Tensiones entre querer destacar (Ascendente en Leo) y no sentirse suficientemente seguro
+    (Luna en Capricornio).
+    - Lucha por equilibrar su empatía natural (Sol en Piscis) con la necesidad de
+    protegerse emocionalmente (Luna en Capricornio).
+
+  agent: astrology_interpreter
+
+# Mike nueva Task
+fortalezas_astrological_profile:
+  description: >
+    A partir del análisis astrológico, identifica y desarrolla un listado de fortalezas clave del niño que reflejen sus tendencias naturales y virtudes.  
+    Proporciona descripciones prácticas y ejemplos claros de cómo estas fortalezas se expresan en su día a día.  
+    Relaciona estas habilidades con posibles áreas de crecimiento personal y su propósito general.  
+
+  expected_output: >
+    1. Listado de al menos 5 virtudes naturales:
+      - Descripción general de cada virtud, ligada al Sol, Luna o Ascendente.
+      - Ejemplos prácticos y cotidianos de cómo el niño manifiesta estas fortalezas en actividades diarias (ej. "su creatividad lo lleva a inventar historias cuando juega solo").  
+    2. Relación entre las fortalezas y el desarrollo emocional del niño.
+    3. Reflexión sobre cómo estas virtudes pueden contribuir a su evolución y propósito personal, motivando al niño a aceptarlas y potenciarlas.
+  example_output: >
+    Habilidades naturales:
+    1. Empatía:
+    - Tiene una gran capacidad para conectar con las emociones de los demás y
+    entender sus necesidades, a menudo antes de que lo verbalicen.
+    - Ejemplo: Puede detectar cuando un amigo está triste aunque no lo exprese
+    abiertamente.
+    2. Imaginación y creatividad:
+    - Su mente soñadora le permite generar ideas únicas y encontrar
+    soluciones innovadoras.
+    - Ejemplo: A menudo sorprende con juegos, dibujos o historias inventadas que
+    fascinan a sus compañeros.
+    3. Determinación silenciosa:
+    - A pesar de sus inseguridades, Kai no se rinde fácilmente cuando se trata
+    ayudar a alguien o alcanzar un objetivo personal.
+    4. Resiliencia:
+    - Aunque tiende a reprimir las emociones, esto también lo hace capaz de
+    mantener la calma en situaciones difíciles.
+
+  agent: astrology_interpreter
+
+retos_astrological_profile:
+  description: >
+    Identifica los desafíos principales que el niño enfrenta debido a las energías de su Sol, Luna y Ascendente.  
+    Describe cómo estos retos podrían manifestarse en su vida diaria y cómo impactan su bienestar emocional y social.  
+    Incluye estrategias accesibles y prácticas para que el niño pueda trabajar en superar estos retos.  
+
+  expected_output: >
+    1. Lista de al menos 4 desafíos específicos:
+      - Descripción de cada reto, vinculado a los elementos astrológicos del niño.  
+      - Ejemplos claros y generalizados de cómo podrían aparecer estos retos en su vida diaria (ej. "se frustra fácilmente cuando las cosas no salen como quiere").  
+    2. Impacto emocional o social que estos retos podrían tener (ej. inseguridades, problemas de comunicación).  
+    3. Sugerencias prácticas para superar estos desafíos: ejercicios simples, cambios de enfoque o actitudes que el niño pueda implementar.  
+    4. Resumen que conecte estos retos con su crecimiento personal y aprendizaje.
+
+  example_output: >
+    Conflictos internos:
+    1. Comparación con los demás:
+    - Tiende a compararse con compañeros que destacan en aspectos
+    visibles (buenas notas, deportes, popularidad) y siente que no llega a su
+    nivel.
+    - Esto le lleva a dudar de su valor personal.
+    2. Miedo a no ser lo suficientemente bueno:
+    - A menudo piensa que si no sobresale en algo concreto, no será
+    apreciado ni aceptado.
+    - Este pensamiento le inmoviliza y refuerza sus inseguridades.
+    3. Represión emocional:
+    - Prefiere no mostrar sus emociones porque teme que le vean como
+    débil o inadecuado.
+    - Esto dificulta su capacidad para conectar plenamente consigo mismo.
+    4. Validación externa:
+    - Necesita sentirse validado por los demás para reconocer su valor.
+    - Cuando no recibe elogios o reconocimiento, entra en una espiral de dudas.
+    Retos externos a superar:
+    1. Entender que no necesita destacar en lo visible:
+    - Reconocerá que sus cualidades (como la empatía y la intuición) son igual
+    de valiosas aunque no sean "admiradas" externamente.
+    2. Aceptar su vulnerabilidad:
+    - Aprenderá que mostrar sus emociones no es una debilidad, sino una
+    parte esencial de su fuerza.
+    3. Descubrir su valor personal:
+    - A través de los retos, se dará cuenta de que su valor no está en los resultados
+    externos, sino en quien es por esencia.
+
+  agent: astrology_interpreter
+
+arc_astrological_profile:
+  description: >
+    Diseña un arco de desarrollo basado en las influencias astrológicas del niño. Este arco debe reflejar su evolución emocional y personal, partiendo de sus desafíos hasta alcanzar una expresión positiva de sus virtudes.  
+    Estructura el arco en tres partes:
+      - **Punto de partida emocional:** inseguridades y conflictos internos que enfrenta en su día a día.  
+      - **Transformación esperada:** herramientas y aprendizajes que puede desarrollar para manejar sus desafíos.  
+      - **Punto de culminación:** cómo estas habilidades y virtudes le ayudan a crecer y expresarse plenamente.  
+
+  expected_output: >
+    1. **Punto de partida:**  
+      - Descripción de las dificultades principales y cómo se manifiestan en su vida cotidiana.  
+    2. **Transformación esperada:**  
+      - Herramientas emocionales y prácticas que desarrollará en su viaje.  
+      - Ejemplos de cómo podría empezar a superar sus inseguridades.  
+    3. **Punto de culminación:**  
+      - Ejemplo concreto de cómo el niño aplica sus aprendizajes y virtudes en su vida diaria (ej. "empieza a comunicarse mejor con sus amigos, compartiendo cómo se siente sin miedo").  
+    4. Resumen que conecte su crecimiento con la idea de un viaje del héroe adaptado a su realidad.
+  example_output: >
+    El arco de desarrollo de Kai refleja su viaje desde la inseguridad y la
+    necesidad de validación externa hasta la aceptación y confianza en su valor intrínseco.
+    Este proceso es esencial para su crecimiento emocional y para construir una base
+    sólida que le ayude en futuras etapas de su vida.
+    Punto de partida emocional:
+    - Confusión e inseguridad: Kai comienza la historia sintiéndose inseguro sobre su
+    valor personal.
+    - Dependencia de la aprobación externa: Cree que sólo será apreciado si
+    sobresale en áreas visibles como los deportes, las notas escolares o la popularidad.
+    - Represión emocional: Tiende a ocultar sus emociones por parecer fuerte,
+    pero esto le hace sentir desconectado de sí mismo.
+    Transformación esperada:
+    1. Autoconocimiento:
+    - Kai descubre que sus cualidades innatas (empatía, creatividad,
+    intuición) son la base de su valor personal.
+    - Comprende que no necesita ser "como los demás" para ser valioso.
+    2. Confianza y aceptación:
+    - Deja de buscar constantemente validación externa.
+    - Se da cuenta de que su autenticidad y forma de ser son suficientes para
+    destacar y ser apreciado.
+    3. Gestión emocional equilibrada:
+    - Aprende a aceptar sus emociones como una parte natural de sí mismo.
+    - Desarrolla la capacidad de compartir sus sentimientos sin miedo a
+    ser juzgado.
+    Punto de culminación:
+    - Reconocimiento de su superpoder:
+    Kai entiende que su superpoder no es "hacerlo todo perfecto", sino ser él mismo
+    con seguridad y autenticidad.
+    - Aplicación práctica:
+    Al final de la historia, Kai utiliza esta nueva confianza para enfrentarse a
+    situaciones cotidianas (ayudar a un amigo, gestionar un conflicto en clase) con una
+    perspectiva positiva y autónoma.
+
+  agent: story_consultant
+
+
+create_character_profile:
+  description: >
+    Desarrolla un perfil completo del niño basado en el análisis astrológico. Integra sus características clave (virtudes y desafíos) y su arco de desarrollo personal.  
+    Este perfil debe ser una base sólida para definir su personaje y narrar su crecimiento.  
+
+  expected_output: >
+    1. **Personalidad:**  
+      - Descripción de cómo las energías del Sol, Luna y Ascendente moldean su comportamiento en casa, la escuela y con amigos.  
+      - Identificación de patrones de comportamiento que el niño puede reconocer en sí mismo.  
+    2. **Arco de desarrollo:**  
+      - Viaje emocional desde sus retos iniciales hasta la aceptación de sus virtudes y superación de sus desafíos.  
+      - Ejemplos cotidianos que muestren esta evolución.  
+    3. **Misión y propósito:**  
+      - Conexión entre las influencias astrológicas y una misión personal accesible para el niño (ej. "aprender a confiar más en sí mismo").  
+    4. **Escenario y ambiente:**  
+      - Descripción de entornos reales donde el niño pueda aplicar y experimentar su crecimiento (ej. "el aula como un espacio para probar su creatividad y trabajar en su confianza").  
+  expected_output: >
+    Un perfil de personaje estructurado que incluya:
+    - Descripción detallada de la personalidad y su origen astrológico
+    - Análisis de virtudes y desafíos como elementos de desarrollo
+    - Misión y motivaciones claras
+    - Tono emocional y energético del personaje
+    - Escenario y elementos narrativos que apoyen su desarrollo
+  agent: story_consultant
