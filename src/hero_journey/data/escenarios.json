@@ -1,0 +1,290 @@
+{
+    "Aries": {
+        "escenarios": [
+            {
+                "sombra": "Aries corre sin pensar por un bosque oscuro, causando caos al empujar ramas y asustar a los animales, sin detenerse a ver las consecuencias.",
+                "resolucion": "Aries aprende a usar su valentía para guiar a los animales a un lugar seguro después de un incendio, liderando con decisión y cuidado."
+            },
+            {
+                "sombra": "Aries compite en una carrera en un pueblo, pero empuja a otros niños para ganar, olvidando el valor del trabajo en equipo.",
+                "resolucion": "Aries se da cuenta de que ayudar a los demás a cruzar la meta hace que todos ganen, y lidera el grupo para completar la carrera juntos."
+            },
+            {
+                "sombra": "Aries desafía a un dragón sin planearlo, actuando impulsivamente y poniéndose en peligro.",
+                "resolucion": "Con la ayuda de sus amigos, Aries aprende a planificar y derrota al dragón trabajando en equipo, convirtiéndose en un héroe consciente."
+            },
+            {
+                "sombra": "Aries se adentra en una cueva oscura porque quiere ser el primero en encontrar un tesoro, pero se pierde por no escuchar las advertencias.",
+                "resolucion": "Aries sigue las señales de sus amigos para salir y encuentra el tesoro juntos, aprendiendo a confiar en los demás."
+            },
+            {
+                "sombra": "Aries interrumpe una asamblea en un pueblo, queriendo imponer su idea sin escuchar a los demás.",
+                "resolucion": "Aries aprende a usar su energía para inspirar, proponiendo su idea con respeto y ayudando a resolver un problema del pueblo."
+            }
+        ]
+    },
+    "Tauro": {
+        "escenarios": [
+            {
+                "sombra": "Tauro se niega a abandonar una vieja cabaña en ruinas porque le resulta cómoda, aunque no sea segura.",
+                "resolucion": "Tauro encuentra un nuevo lugar lleno de flores mágicas y aprende que el cambio puede traer estabilidad y belleza."
+            },
+            {
+                "sombra": "Tauro guarda todos los caramelos en una feria porque teme quedarse sin ellos, sin compartir con los demás.",
+                "resolucion": "Tauro comparte los caramelos y descubre que al hacerlo recibe más regalos de los demás, disfrutando en comunidad."
+            },
+            {
+                "sombra": "Tauro se niega a cruzar un puente roto porque teme que se caiga, bloqueando el paso a otros.",
+                "resolucion": "Con la ayuda de sus amigos, Tauro construye un puente mejor y lidera el cruce, sintiéndose seguro y confiado."
+            },
+            {
+                "sombra": "Tauro se queda sentado en un prado disfrutando de su comida, ignorando que sus amigos lo necesitan para completar una misión.",
+                "resolucion": "Tauro se une a la misión y utiliza su fuerza para ayudar a mover una roca gigante, demostrando que puede disfrutar y ayudar al mismo tiempo."
+            },
+            {
+                "sombra": "Tauro insiste en usar su vieja bicicleta oxidada, aunque sea lenta, porque no quiere deshacerse de ella.",
+                "resolucion": "Tauro arregla la bicicleta con la ayuda de un amigo y se da cuenta de que renovar las cosas no significa perderlas."
+            }
+        ]
+    },
+    "Geminis": {
+        "escenarios": [
+            {
+                "sombra": "Géminis entra en un mercado ruidoso y se distrae con tantas voces, olvidando lo que realmente estaba buscando.",
+                "resolucion": "Géminis encuentra una forma de escuchar a cada persona por turnos y organiza el mercado, ayudando a todos a encontrar lo que necesitan."
+            },
+            {
+                "sombra": "Géminis promete ayudar a tres grupos diferentes en una feria, pero se abruma al no poder cumplir con todos.",
+                "resolucion": "Géminis aprende a priorizar y se enfoca en ayudar a un grupo primero, logrando completar las tareas de forma eficiente."
+            },
+            {
+                "sombra": "Géminis repite rumores sobre un tesoro escondido, causando confusión entre sus amigos.",
+                "resolucion": "Géminis investiga los rumores y encuentra la verdad, reuniendo a sus amigos para buscar el tesoro juntos."
+            },
+            {
+                "sombra": "Géminis empieza a construir un cometa, pero se aburre a mitad de camino y deja el proyecto sin terminar.",
+                "resolucion": "Con la ayuda de un amigo, Géminis termina el cometa y siente la satisfacción de verlo volar alto en el cielo."
+            },
+            {
+                "sombra": "Géminis organiza un juego pero cambia las reglas constantemente, confundiendo a los demás niños.",
+                "resolucion": "Géminis crea un manual claro para el juego y aprende que ser consistente ayuda a que todos se diviertan más."
+            }
+        ]
+    },
+    "Cancer": {
+        "escenarios": [
+            {
+                "sombra": "Cáncer se encierra en su habitación porque tiene miedo de salir al mundo exterior y enfrentar algo desconocido.",
+                "resolucion": "Cáncer encuentra el coraje para salir y ayuda a un animal perdido, descubriendo que su cuidado puede hacer una gran diferencia."
+            },
+            {
+                "sombra": "Cáncer se aferra a una vieja manta rota que le recuerda a su infancia, negándose a dejarla ir aunque ya no la necesita.",
+                "resolucion": "Cáncer transforma la manta en un collage de recuerdos para compartir con sus amigos, aprendiendo que puede mantener su pasado sin aferrarse."
+            },
+            {
+                "sombra": "Cáncer se queda junto al lago mirando la luna, temiendo cruzarlo porque piensa que perderá el refugio de la orilla.",
+                "resolucion": "Cáncer cruza el lago con valentía, guiado por la luz de la luna, y descubre una isla maravillosa donde se siente seguro."
+            },
+            {
+                "sombra": "Cáncer intenta proteger un pequeño cofre lleno de juguetes, pero no deja que nadie más los use por miedo a que los rompan.",
+                "resolucion": "Cáncer decide compartir los juguetes y ve que los niños los cuidan y crean recuerdos felices juntos."
+            },
+            {
+                "sombra": "Cáncer duda en organizar una fiesta para sus amigos porque teme que no se diviertan o algo salga mal.",
+                "resolucion": "Cáncer organiza la fiesta con amor y se da cuenta de que su esfuerzo y cuidado hacen que todos se sientan bienvenidos y felices."
+            }
+        ]
+    },
+    "Leo": {
+        "escenarios": [
+            {
+                "sombra": "Leo sube al escenario en una feria, pero empieza a exagerar sus habilidades porque tiene miedo de que no lo aplaudan.",
+                "resolucion": "Leo decide ser auténtico y muestra su verdadero talento, ganándose el respeto y el cariño del público."
+            },
+            {
+                "sombra": "Leo interrumpe a sus amigos durante una reunión porque quiere que todos escuchen su idea primero.",
+                "resolucion": "Leo aprende a escuchar primero y luego comparte su idea con entusiasmo, logrando que todos colaboren en su proyecto."
+            },
+            {
+                "sombra": "Leo organiza una obra de teatro en el colegio, pero quiere ser el protagonista y se olvida de repartir papeles para los demás.",
+                "resolucion": "Leo se da cuenta de que todos tienen un papel importante y dirige la obra desde detrás del telón, permitiendo que todos brillen."
+            },
+            {
+                "sombra": "Leo intenta impresionar a los demás con un truco de magia, pero se enfada cuando no recibe suficiente atención.",
+                "resolucion": "Leo enseña el truco de magia a otros niños y siente alegría al verlos aprender y disfrutar juntos."
+            },
+            {
+                "sombra": "Leo intenta liderar un grupo para explorar un castillo, pero no escucha las ideas de los demás y se pierden.",
+                "resolucion": "Leo escucha las sugerencias de sus amigos y juntos encuentran una salida, mostrando que ser un buen líder significa trabajar en equipo."
+            }
+        ]
+    },
+    "Virgo": {
+        "escenarios": [
+            {
+                "sombra": "Virgo pasa horas organizando un rompecabezas, pero se frustra porque no puede encajar una pieza perfecta.",
+                "resolucion": "Virgo se da cuenta de que puede disfrutar el proceso sin obsesionarse con la perfección, completando el rompecabezas con calma."
+            },
+            {
+                "sombra": "Virgo critica el dibujo de un amigo porque no está bien coloreado, sin darse cuenta de que está hiriendo sus sentimientos.",
+                "resolucion": "Virgo elogia el esfuerzo de su amigo y le ofrece ayuda para mejorar el dibujo, aprendiendo a ser más comprensivo."
+            },
+            {
+                "sombra": "Virgo intenta limpiar todo el desorden de una feria, pero se abruma porque no puede hacerlo todo solo.",
+                "resolucion": "Virgo pide ayuda a sus amigos, dividen las tareas y logran organizar la feria juntos de manera eficiente."
+            },
+            {
+                "sombra": "Virgo se niega a participar en una competencia porque siente que no puede hacerlo perfecto.",
+                "resolucion": "Virgo decide intentarlo y se da cuenta de que participar es más importante que ganar, disfrutando el momento."
+            },
+            {
+                "sombra": "Virgo pasa horas revisando una receta porque teme que algo salga mal al cocinar, y no empieza nunca.",
+                "resolucion": "Virgo cocina con ayuda de otros niños y aprende que puede ajustar la receta mientras disfruta del proceso."
+            }
+        ]
+    },
+    "Libra": {
+        "escenarios": [
+            {
+                "sombra": "Libra se queda paralizado al intentar elegir entre dos actividades divertidas en una feria, temiendo decepcionar a alguien.",
+                "resolucion": "Libra decide proponer un juego que combine ambas actividades, haciendo que todos se diviertan juntos y aprendiendo a confiar en sus decisiones."
+            },
+            {
+                "sombra": "Libra acepta demasiadas tareas de sus amigos porque no quiere decir que no, terminando abrumado y sin poder ayudar a nadie.",
+                "resolucion": "Libra aprende a decir que no cuando es necesario y se enfoca en una tarea, ayudando a terminarla con éxito."
+            },
+            {
+                "sombra": "Libra se une a dos equipos en un torneo porque no quiere tomar partido, lo que causa conflictos entre ambos grupos.",
+                "resolucion": "Libra decide ser el mediador del torneo, asegurándose de que las reglas sean justas para ambos equipos y ayudando a resolver el conflicto."
+            },
+            {
+                "sombra": "Libra evita un debate en el colegio porque teme que sus opiniones molesten a otros.",
+                "resolucion": "Libra participa con respeto y diplomacia, aprendiendo que expresar sus ideas puede enriquecer el diálogo y no siempre genera conflictos."
+            },
+            {
+                "sombra": "Libra organiza una fiesta y pasa tanto tiempo intentando que todo sea perfecto que no logra disfrutar el evento.",
+                "resolucion": "Libra se da cuenta de que lo importante es la conexión con sus amigos y disfruta de la fiesta tal como es, dejando de preocuparse por los detalles."
+            }
+        ]
+    },
+    "Escorpio": {
+        "escenarios": [
+            {
+                "sombra": "Escorpio encuentra un mapa del tesoro y lo esconde de sus amigos porque teme que lo traicionen.",
+                "resolucion": "Escorpio comparte el mapa y descubre que trabajando juntos encuentran el tesoro más rápido y se divierten más."
+            },
+            {
+                "sombra": "Escorpio guarda un secreto sobre un bosque mágico, pero se siente aislado porque no confía en nadie para compartirlo.",
+                "resolucion": "Escorpio cuenta el secreto a un amigo cercano y descubre que compartir lo importante lo hace sentir más conectado y menos solo."
+            },
+            {
+                "sombra": "Escorpio guarda rencor a otro niño porque no le prestó un juguete, lo que los distancia y afecta su amistad.",
+                "resolucion": "Escorpio perdona y ofrece compartir su propio juguete, fortaleciendo su amistad y sintiéndose más ligero emocionalmente."
+            },
+            {
+                "sombra": "Escorpio entra a una cueva oscura buscando un amuleto mágico, pero su miedo a lo desconocido lo hace dudar y se detiene.",
+                "resolucion": "Escorpio enfrenta su miedo y encuentra el amuleto, aprendiendo que la valentía es clave para superar los desafíos."
+            },
+            {
+                "sombra": "Escorpio intenta controlar cómo sus amigos juegan en el parque, lo que genera tensiones.",
+                "resolucion": "Escorpio deja que cada uno juegue como prefiera y se da cuenta de que la diversidad en las ideas hace el juego más divertido."
+            }
+        ]
+    },
+    "Sagitario": {
+        "escenarios": [
+            {
+                "sombra": "Sagitario decide explorar un bosque solo porque cree que nadie más puede seguir su ritmo, pero termina perdiéndose.",
+                "resolucion": "Sagitario aprende a explorar en equipo, guiando a sus amigos a través del bosque y descubriendo juntos nuevos paisajes."
+            },
+            {
+                "sombra": "Sagitario se emociona tanto al contar una historia que exagera los detalles, y sus amigos empiezan a no creerle.",
+                "resolucion": "Sagitario aprende a compartir historias reales con honestidad, descubriendo que la verdad también puede ser emocionante."
+            },
+            {
+                "sombra": "Sagitario promete llevar a todos a una aventura, pero no planea bien el camino y el grupo se desorganiza.",
+                "resolucion": "Sagitario utiliza un mapa y organiza mejor la ruta, liderando la aventura con entusiasmo y responsabilidad."
+            },
+            {
+                "sombra": "Sagitario corre por un campo de flores mágicas sin cuidarlas, dañando algunas sin darse cuenta.",
+                "resolucion": "Sagitario se detiene, aprecia la belleza del lugar y guía a otros para explorar el campo con respeto y cuidado."
+            },
+            {
+                "sombra": "Sagitario se une a una carrera en un pueblo, pero abandona a mitad de camino porque se distrae con otra actividad.",
+                "resolucion": "Sagitario se enfoca en terminar la carrera y se siente orgulloso de haber completado algo importante."
+            }
+        ]
+    },
+    "Capricornio": {
+        "escenarios": [
+            {
+                "sombra": "Capricornio intenta construir una torre de piedras muy alta, pero no acepta la ayuda de sus amigos porque quiere demostrar que puede hacerlo solo.",
+                "resolucion": "Capricornio acepta la ayuda de sus amigos y juntos construyen una torre más sólida, aprendiendo que el trabajo en equipo es más valioso que hacerlo todo solo."
+            },
+            {
+                "sombra": "Capricornio se enfoca tanto en ganar una competencia que no disfruta el proceso y se siente solo al final.",
+                "resolucion": "Capricornio se da cuenta de que compartir el esfuerzo con los demás es más importante que ganar, disfrutando del camino junto a sus amigos."
+            },
+            {
+                "sombra": "Capricornio insiste en seguir un camino difícil por la montaña porque piensa que es el único que vale la pena, ignorando una ruta más segura.",
+                "resolucion": "Capricornio decide tomar la ruta más segura con su grupo, aprendiendo que ser flexible también es parte del éxito."
+            },
+            {
+                "sombra": "Capricornio rechaza unirse a un picnic porque cree que perderá tiempo en lugar de trabajar en sus metas.",
+                "resolucion": "Capricornio se une al picnic y se da cuenta de que descansar y disfrutar con los demás le da más energía para cumplir sus objetivos."
+            },
+            {
+                "sombra": "Capricornio se niega a decorar una fiesta porque piensa que lo importante es la organización y no los detalles bonitos.",
+                "resolucion": "Capricornio participa en la decoración y descubre que los pequeños detalles hacen que la fiesta sea más especial para todos."
+            }
+        ]
+    },
+    "Acuario": {
+        "escenarios": [
+            {
+                "sombra": "Acuario construye un invento mágico en su taller, pero no lo comparte porque teme que los demás no lo entiendan.",
+                "resolucion": "Acuario muestra su invento a los demás y descubre que trabajando juntos pueden mejorarlo y usarlo para ayudar a la comunidad."
+            },
+            {
+                "sombra": "Acuario insiste en usar reglas poco convencionales en un juego, lo que confunde a los demás niños y causa discusiones.",
+                "resolucion": "Acuario ajusta las reglas para que todos puedan entenderlas, sin perder su creatividad, y el juego se convierte en algo único y divertido."
+            },
+            {
+                "sombra": "Acuario se aísla en una torre porque quiere trabajar en su idea sin distracciones, pero se siente solo y desconectado.",
+                "resolucion": "Acuario invita a otros niños a colaborar y juntos convierten la torre en un espacio para compartir ideas geniales."
+            },
+            {
+                "sombra": "Acuario propone construir una máquina voladora, pero se frustra porque nadie comparte su visión y abandona el proyecto.",
+                "resolucion": "Acuario explica su idea con entusiasmo y paciencia, logrando que otros se unan al proyecto y lo lleven a cabo juntos."
+            },
+            {
+                "sombra": "Acuario sueña con cambiar las normas de un festival, pero se rebela de manera impulsiva y causa desorden.",
+                "resolucion": "Acuario propone sus ideas en una reunión y convence al grupo con argumentos creativos, transformando el festival en algo nuevo y emocionante."
+            }
+        ]
+    },
+    "Piscis": {
+        "escenarios": [
+            {
+                "sombra": "Piscis se pierde en un sueño mientras explora un bosque mágico y olvida que sus amigos lo necesitan para regresar.",
+                "resolucion": "Piscis usa su imaginación para encontrar el camino de regreso y guía a sus amigos fuera del bosque, equilibrando fantasía y realidad."
+            },
+            {
+                "sombra": "Piscis se siente abrumado por las emociones de los demás en una fiesta y decide esconderse en un rincón, evitando participar.",
+                "resolucion": "Piscis aprende a manejar sus emociones y se une a la fiesta, usando su empatía para animar a otros y disfrutar del momento."
+            },
+            {
+                "sombra": "Piscis encuentra un río mágico y se queda mirando su reflejo, perdiendo la noción del tiempo y olvidando su misión.",
+                "resolucion": "Piscis cruza el río con confianza y descubre que al seguir adelante puede cumplir su misión y ayudar a sus amigos."
+            },
+            {
+                "sombra": "Piscis intenta escribir una historia pero abandona porque teme que no sea lo suficientemente buena.",
+                "resolucion": "Piscis comparte su historia con un amigo y descubre que su imaginación es inspiradora, animándose a seguir escribiendo."
+            },
+            {
+                "sombra": "Piscis ve que un compañero está triste, pero no sabe cómo ayudar y decide no hacer nada por miedo a equivocarse.",
+                "resolucion": "Piscis usa su empatía para hablar con su compañero y descubre que solo escuchar puede marcar una gran diferencia."
+            }
+        ]
+    }
+}

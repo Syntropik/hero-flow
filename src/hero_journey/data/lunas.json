@@ -1,0 +1,53 @@
+{
+    "Luna": {
+      "Aries": {
+        "sombra": "Emociones impulsivas y reacciones rápidas. Miedo a ser ignorado emocionalmente. Puede frustrarse al no obtener lo que quiere de inmediato.",
+        "resolucion": "Aprender a manejar las emociones con paciencia y a confiar en que sus necesidades serán atendidas sin actuar de forma precipitada."
+      },
+      "Tauro": {
+        "sombra": "Apego emocional a la seguridad y al confort. Miedo al cambio, lo que puede generar resistencia a nuevas experiencias o personas.",
+        "resolucion": "Descubrir que la estabilidad emocional viene de adentro y no depende de las cosas externas. Aprender a fluir con los cambios."
+      },
+      "Geminis": {
+        "sombra": "Dificultad para conectar profundamente con sus emociones. Puede racionalizarlas o evitarlas hablando constantemente.",
+        "resolucion": "Aprender a estar presente en sus emociones y expresar sus sentimientos de manera auténtica, en lugar de evitarlos o desconectarse."
+      },
+      "Cancer": {
+        "sombra": "Hipersensibilidad emocional y tendencia a aferrarse al pasado. Miedo al rechazo o a la soledad emocional.",
+        "resolucion": "Fortalecer su seguridad interna, aprendiendo a cuidar sus emociones sin depender completamente de la validación externa."
+      },
+      "Leo": {
+        "sombra": "Necesidad emocional de ser el centro de atención. Puede sentirse herido si no recibe suficiente reconocimiento de los demás.",
+        "resolucion": "Aprender a encontrar valor emocional en sí mismo, sin depender de la aprobación externa. Brillar desde su autenticidad emocional."
+      },
+      "Virgo": {
+        "sombra": "Autocrítica emocional excesiva. Puede preocuparse demasiado por sus errores o sentir que no es lo suficientemente bueno.",
+        "resolucion": "Aprender a aceptar sus emociones sin juzgarlas y a encontrar la paz en la imperfección, tanto en sí mismo como en los demás."
+      },
+      "Libra": {
+        "sombra": "Necesidad de evitar conflictos emocionales. Puede comprometer sus propias emociones para mantener la armonía con los demás.",
+        "resolucion": "Aprender a equilibrar sus emociones, expresándose con autenticidad sin miedo a romper la paz superficial."
+      },
+      "Escorpio": {
+        "sombra": "Emociones intensas y tendencia a guardar rencores. Puede temer la vulnerabilidad y esconder sus sentimientos más profundos.",
+        "resolucion": "Aprender a confiar en los demás, compartiendo sus emociones con valentía y liberándose de los resentimientos."
+      },
+      "Sagitario": {
+        "sombra": "Emociones inconstantes y tendencia a evitar compromisos emocionales. Puede huir de situaciones que le hagan sentir atrapado.",
+        "resolucion": "Aprender a comprometerse emocionalmente sin sentir que pierde su libertad, encontrando alegría en las conexiones profundas."
+      },
+      "Capricornio": {
+        "sombra": "Tendencia a reprimir sus emociones. Miedo a mostrarse vulnerable o a ser percibido como débil.",
+        "resolucion": "Aprender a abrirse emocionalmente, aceptando que expresar sus sentimientos lo fortalece en lugar de debilitarlo."
+      },
+      "Acuario": {
+        "sombra": "Desapego emocional y dificultad para conectar profundamente con los demás. Puede sentirse incómodo con emociones intensas.",
+        "resolucion": "Aprender a valorar las emociones como una parte importante de las relaciones humanas, permitiéndose conectar desde la empatía."
+      },
+      "Piscis": {
+        "sombra": "Hipersensibilidad emocional y tendencia a evadirse de la realidad cuando las emociones son demasiado abrumadoras.",
+        "resolucion": "Aprender a manejar sus emociones con compasión y a mantener los pies en la tierra mientras explora su mundo interno."
+      }
+    }
+  }
+  

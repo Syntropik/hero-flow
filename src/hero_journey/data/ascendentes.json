@@ -1,0 +1,53 @@
+{
+    "Ascendente": {
+      "Aries": {
+        "sombra": "Impulsividad al enfrentar nuevos retos. Puede apresurarse a tomar decisiones sin pensar en las consecuencias, lo que causa problemas en su entorno.",
+        "resolucion": "Aprender a canalizar su energía de manera consciente, actuando con valentía pero también con reflexión. Descubre que liderar implica también pensar en los demás."
+      },
+      "Tauro": {
+        "sombra": "Resistencia al cambio y exceso de apego a lo familiar. Puede parecer terco o reacio a explorar nuevas posibilidades.",
+        "resolucion": "Descubrir que la seguridad real proviene de dentro y que fluir con los cambios puede traer nuevas oportunidades y estabilidad."
+      },
+      "Geminis": {
+        "sombra": "Tendencia a dispersarse y dificultad para comprometerse con un solo camino. Puede parecer inconstante o poco confiable.",
+        "resolucion": "Aprender a enfocarse y a equilibrar su curiosidad con el compromiso, usando su versatilidad para construir conexiones significativas."
+      },
+      "Cancer": {
+        "sombra": "Timidez al enfrentarse a nuevas situaciones. Puede ser demasiado protector o temer exponerse emocionalmente.",
+        "resolucion": "Aprender a abrirse al mundo desde un lugar de confianza interna, usando su sensibilidad como una fortaleza para conectar con los demás."
+      },
+      "Leo": {
+        "sombra": "Necesidad de ser el centro de atención. Puede buscar demasiado reconocimiento o intentar controlarlo todo, lo que genera conflictos con los demás.",
+        "resolucion": "Aprender a liderar desde la generosidad y la autenticidad, inspirando a otros a brillar y creando armonía en el grupo."
+      },
+      "Virgo": {
+        "sombra": "Exceso de análisis o crítica frente a los retos. Puede preocuparse demasiado por los detalles y perder de vista el panorama general.",
+        "resolucion": "Aprender a confiar en el proceso y a equilibrar su necesidad de perfección con la aceptación de lo imperfecto."
+      },
+      "Libra": {
+        "sombra": "Dificultad para tomar decisiones importantes. Puede evitar el conflicto o buscar agradar a todos, lo que lo hace parecer indeciso.",
+        "resolucion": "Aprender a equilibrar su deseo de armonía con la toma de decisiones firmes, confiando en su capacidad para actuar con justicia."
+      },
+      "Escorpio": {
+        "sombra": "Desconfianza y tendencia a guardar secretos. Puede ser muy reservado y controlador en situaciones nuevas.",
+        "resolucion": "Aprender a confiar en los demás y a usar su intensidad emocional como una herramienta para transformar y fortalecer las relaciones."
+      },
+      "Sagitario": {
+        "sombra": "Impulsividad y falta de enfoque en las metas. Puede lanzarse a explorar sin planificación, causando desorden o conflictos en el grupo.",
+        "resolucion": "Equilibrar su entusiasmo con responsabilidad, planificando de manera consciente mientras mantiene su espíritu aventurero."
+      },
+      "Capricornio": {
+        "sombra": "Rigidez y miedo a salir de su zona de confort. Puede enfocarse demasiado en el trabajo y las reglas, dejando de lado la diversión y las emociones.",
+        "resolucion": "Aprender a integrar disciplina y disfrute, encontrando el equilibrio entre la responsabilidad y la conexión emocional."
+      },
+      "Acuario": {
+        "sombra": "Rebeldía sin causa o dificultad para comprometerse con las normas del grupo. Puede parecer desapegado o demasiado independiente.",
+        "resolucion": "Aprender a integrar su originalidad en el grupo, usando su visión única para contribuir de manera positiva y constructiva."
+      },
+      "Piscis": {
+        "sombra": "Falta de límites y tendencia a perderse en su mundo interior. Puede parecer desconectado de la realidad.",
+        "resolucion": "Aprender a equilibrar su intuición y sensibilidad con acciones prácticas, conectando sus sueños con el mundo real."
+      }
+    }
+  }
+  

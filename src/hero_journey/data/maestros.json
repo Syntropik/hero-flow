@@ -1,0 +1,75 @@
+{
+    "LunaEnAries": {
+      "nombre": "Maestro Ignis, el Guardián de la Llama Interior",
+      "descripcion": "Ignis es un sabio guerrero que lleva una antorcha siempre encendida. Su presencia es ardiente y llena de energía. Ayuda a los héroes a canalizar su impulso emocional y a dominar su fuego interior.",
+      "leccion": "Aprender a controlar el impulso y la ira, transformando el deseo de actuar en una fuerza valiente y constructiva.",
+      "simbolo": "Una antorcha mágica que nunca se apaga y enseña a guiar la acción con propósito."
+    },
+    "LunaEnTauro": {
+      "nombre": "Maestra Terra, la Guardiana del Jardín Eterno",
+      "descripcion": "Terra es una guardiana serena que cuida un jardín lleno de plantas y piedras preciosas. Enseña a los héroes a encontrar estabilidad y seguridad dentro de sí mismos.",
+      "leccion": "Aprender a soltar el apego a lo material y encontrar seguridad emocional en el interior.",
+      "simbolo": "Una semilla dorada que crece cuando se cuida con amor y paciencia."
+    },
+    "LunaEnGeminis": {
+      "nombre": "Maestro Zephyr, el Mensajero de los Vientos",
+      "descripcion": "Zephyr es un ágil mensajero que viaja con el viento. Ayuda a los héroes a calmar su mente inquieta y a encontrar claridad en medio de sus pensamientos.",
+      "leccion": "Aprender a equilibrar la mente y las emociones, comunicando lo que sienten de forma honesta.",
+      "simbolo": "Una pluma que puede escribir pensamientos y emociones claras."
+    },
+    "LunaEnCancer": {
+      "nombre": "Maestra Marina, la Protectora de los Océanos del Alma",
+      "descripcion": "Marina es una figura maternal que habita en una cueva junto al mar. Ayuda a los héroes a aceptar sus emociones y a crear un refugio seguro en su interior.",
+      "leccion": "Aprender a cuidar de sí mismo y de los demás sin temor a la vulnerabilidad.",
+      "simbolo": "Una concha que susurra palabras de consuelo y protección."
+    },
+    "LunaEnLeo": {
+      "nombre": "Maestro Solaron, el Guardián del Corazón Brillante",
+      "descripcion": "Solaron es un guía luminoso que brilla con una luz dorada. Inspira a los héroes a expresar su verdadera esencia con confianza.",
+      "leccion": "Aprender a superar el miedo al rechazo y brillar con autenticidad.",
+      "simbolo": "Una corona de luz que ilumina el valor del corazón."
+    },
+    "LunaEnVirgo": {
+      "nombre": "Maestra Althea, la Sanadora de los Detalles",
+      "descripcion": "Althea es una curandera sabia que vive en un taller lleno de herramientas mágicas. Ayuda a los héroes a aceptar que no todo necesita ser perfecto.",
+      "leccion": "Aprender a liberar el perfeccionismo y encontrar paz en el proceso.",
+      "simbolo": "Una lupa encantada que revela la belleza en las pequeñas imperfecciones."
+    },
+    "LunaEnLibra": {
+      "nombre": "Maestra Harmonia, la Guardiana del Equilibrio",
+      "descripcion": "Harmonia es una diplomática sabia que sostiene una balanza dorada. Ayuda a los héroes a encontrar armonía entre sus emociones y las de los demás.",
+      "leccion": "Aprender a tomar decisiones sin depender de la aprobación de los demás.",
+      "simbolo": "Una balanza dorada que se equilibra con sinceridad y justicia."
+    },
+    "LunaEnEscorpio": {
+      "nombre": "Maestra Serafina, Guardiana de las Aguas Profundas",
+      "descripcion": "Serafina habita en una cueva submarina donde las aguas reflejan las emociones más ocultas. Ayuda a los héroes a enfrentar sus miedos y liberar lo reprimido.",
+      "leccion": "Aprender a aceptar y transformar las emociones más profundas.",
+      "simbolo": "Un espejo de obsidiana que revela verdades ocultas."
+    },
+    "LunaEnSagitario": {
+      "nombre": "Maestro Orion, el Explorador de las Estrellas",
+      "descripcion": "Orion es un sabio viajero que navega por el cielo estrellado. Ayuda a los héroes a confiar en sus emociones y a expandir sus horizontes.",
+      "leccion": "Aprender a comprometerse emocionalmente sin temer perder la libertad.",
+      "simbolo": "Un mapa estelar que guía hacia nuevas aventuras emocionales."
+    },
+    "LunaEnCapricornio": {
+      "nombre": "Maestro Atlas, el Guardián de la Montaña Eterna",
+      "descripcion": "Atlas es un mentor firme y paciente que habita en la cima de una montaña. Ayuda a los héroes a liberar su miedo a la insuficiencia.",
+      "leccion": "Aprender a abrirse emocionalmente y aceptar que expresar sentimientos fortalece.",
+      "simbolo": "Una piedra tallada con un corazón, símbolo de fortaleza emocional."
+    },
+    "LunaEnAcuario": {
+      "nombre": "Maestro Aeon, el Visionario del Cielo Abierto",
+      "descripcion": "Aeon es un guía que habita en una torre de cristal y observa las estrellas. Ayuda a los héroes a aceptar su singularidad y a conectar con los demás.",
+      "leccion": "Aprender a equilibrar su necesidad de independencia con el deseo de pertenencia.",
+      "simbolo": "Un cristal que refleja las conexiones invisibles entre las personas."
+    },
+    "LunaEnPiscis": {
+      "nombre": "Maestra Nereida, la Guardiana de los Sueños",
+      "descripcion": "Nereida es una guardiana etérea que vive en un mar de sueños y estrellas. Ayuda a los héroes a confiar en su intuición y a proteger su energía.",
+      "leccion": "Aprender a establecer límites emocionales sin perder su compasión.",
+      "simbolo": "Una perla luminosa que guía a través de los sueños."
+    }
+  }
+  

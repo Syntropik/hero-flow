@@ -10,15 +10,128 @@ class SLAInput(BaseModel):
     ascendente: str
 
 class SLAOutput(BaseModel):
-    name: str
+    nombre: str
     age: str
-    key_positions: List[str]
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
 
 class StrengthsOutput(BaseModel):
-    strengths: List[str]
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
 
 class ConflictsOutput(BaseModel):
-    conflicts: List[str]
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+
+class ArcOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+
+class EnvironmentOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+
+class MentorOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+    mentor: str
+
+
+class SymbolismOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+    mentor: str
+    symbolism: str
+
+class IntegrationOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+    mentor: str
+    integration: str
+
+class ReviewOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+    mentor: str
+    integration: str
+    adjusted_elements: str
+
+class FinalOutput(BaseModel):
+    nombre: str
+    age: str
+    sol: str
+    luna: str
+    ascendente: str
+    key_positions: str
+    strengths: str
+    conflicts: str
+    develompent_arc: str
+    environment: str
+    mentor: str
+    integration: str
+    review: str
+    adjusted_elements: str  
+    final_narrative: str
 
 
 class NatalChartInput(BaseModel):

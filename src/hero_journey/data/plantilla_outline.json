@@ -1,0 +1,55 @@
+{
+    "personaje": {
+      "nombre": "<Nombre del protagonista>",
+      "sol": {
+        "signo": "<Signo Solar>",
+        "energiaPrincipal": "<Energía Principal>",
+        "fortalezas": ["<Fortalezas>"],
+        "sombras": ["<Sombras>"],
+        "leccionEspiritual": "<Lección Espiritual>"
+      },
+      "luna": {
+        "signo": "<Signo Lunar>",
+        "sombra": "<Sombra Emocional>",
+        "resolucion": "<Resolución>"
+      },
+      "ascendente": {
+        "signo": "<Signo Ascendente>",
+        "sombra": "<Sombra del Ascendente>",
+        "resolucion": "<Resolución>"
+      }
+    },
+    "escenario": {
+      "nombre": "<Nombre del Escenario>",
+      "descripcion": "<Descripción del Escenario>",
+      "temas": ["<Temas Relacionados>"]
+    },
+    "maestroLunar": {
+      "nombre": "<Nombre del Maestro Lunar>",
+      "descripcion": "<Descripción del Maestro Lunar>",
+      "leccion": "<Lección del Maestro>",
+      "simbolo": "<Símbolo del Maestro>"
+    },
+    "viajeDelHeroe": {
+      "introduccion": "El protagonista, <Nombre del protagonista>, es presentado con las características de su Sol en <Signo Solar>, Luna en <Signo Lunar> y Ascendente en <Signo Ascendente>.",
+      "desafioAscendente": {
+        "descripcion": "El primer desafío está relacionado con su Ascendente en <Signo Ascendente>. <Descripción de la sombra del Ascendente>.",
+        "resolucion": "Aprende a <Resolución del Ascendente> y empieza a integrar su Ascendente de forma positiva."
+      },
+      "desafioLunar": {
+        "descripcion": "El siguiente desafío es emocional y está vinculado a su Luna en <Signo Lunar>. <Descripción de la sombra emocional de la Luna>.",
+        "maestro": {
+          "nombre": "<Nombre del Maestro Lunar>",
+          "leccion": "<Lección del Maestro Lunar>",
+          "simbolo": "<Símbolo del Maestro Lunar>"
+        },
+        "resolucion": "Gracias a la ayuda de <Nombre del Maestro Lunar>, logra <Resolución de la Luna>."
+      },
+      "desafioSolar": {
+        "descripcion": "El desafío final está relacionado con su Sol en <Signo Solar>. <Descripción de las sombras del Sol>.",
+        "resolucion": "Finalmente, logra <Lección Espiritual del Sol> y manifiesta su verdadero yo."
+      },
+      "transformacionFinal": "Al superar estos tres desafíos, <Nombre del protagonista> se transforma y logra resolver el conflicto principal de la historia, integrando las mejores cualidades de su Ascendente, Luna y Sol."
+    }
+  }
+  

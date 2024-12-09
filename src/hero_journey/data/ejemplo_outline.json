@@ -1,0 +1,55 @@
+{
+    "personaje": {
+      "nombre": "Kai",
+      "sol": {
+        "signo": "Piscis",
+        "energiaPrincipal": "Piscis representa la sensibilidad, la conexión espiritual y la creatividad.",
+        "fortalezas": ["Compasivo", "Artístico", "Intuitivo", "Espiritual"],
+        "sombras": ["Escapista", "Poco práctico", "Idealista en exceso"],
+        "leccionEspiritual": "Aprender a mantener los pies en la tierra mientras explora sus mundos internos."
+      },
+      "luna": {
+        "signo": "Capricornio",
+        "sombra": "Tendencia a reprimir sus emociones. Miedo a mostrarse vulnerable o a ser percibido como débil.",
+        "resolucion": "Aprender a abrirse emocionalmente, aceptando que expresar sus sentimientos lo fortalece."
+      },
+      "ascendente": {
+        "signo": "Leo",
+        "sombra": "Necesidad de ser el centro de atención. Puede buscar demasiado reconocimiento o intentar controlarlo todo.",
+        "resolucion": "Aprender a liderar desde la generosidad y la autenticidad, inspirando a otros a brillar."
+      }
+    },
+    "escenario": {
+      "nombre": "El Teatro de los Sueños Luminosos",
+      "descripcion": "En un teatro mágico donde los sueños cobran vida, Kai debe dirigir una obra que inspire a todos.",
+      "temas": ["Combinar creatividad con liderazgo", "Expresar los sueños con confianza", "Inspirar a otros"]
+    },
+    "maestroLunar": {
+      "nombre": "Maestro Atlas, el Guardián de la Montaña Eterna",
+      "descripcion": "Atlas es un mentor firme y paciente que ayuda a liberar el miedo a la insuficiencia.",
+      "leccion": "Aprender a abrirse emocionalmente y aceptar que expresar sentimientos fortalece.",
+      "simbolo": "Una piedra tallada con un corazón."
+    },
+    "viajeDelHeroe": {
+      "introduccion": "Kai es un niño creativo y sensible con Sol en Piscis, Luna en Capricornio y Ascendente en Leo.",
+      "desafioAscendente": {
+        "descripcion": "Kai necesita dirigir una obra en el teatro, pero teme no ser lo suficientemente bueno y quiere controlar cada detalle.",
+        "resolucion": "Aprende a liderar desde la generosidad y a confiar en los talentos de los demás."
+      },
+      "desafioLunar": {
+        "descripcion": "Kai siente miedo de expresar sus emociones y mostrarse vulnerable.",
+        "maestro": {
+          "nombre": "Maestro Atlas, el Guardián de la Montaña Eterna",
+          "leccion": "Aprender a abrir su corazón y aceptar que mostrar sus sentimientos lo fortalece.",
+          "simbolo": "Una piedra tallada con un corazón."
+        },
+        "resolucion": "Kai se abre emocionalmente y descubre que expresar lo que siente lo hace más fuerte."
+      },
+      "desafioSolar": {
+        "descripcion": "Kai necesita usar su imaginación y sensibilidad para inspirar a otros, pero teme perderse en sus sueños.",
+        "resolucion": "Aprende a equilibrar su mundo interior con la realidad, usando su creatividad para guiar a los demás."
+      },
+      "transformacionFinal": "Kai supera todos los desafíos y dirige una obra maravillosa que inspira a todos, manifestando su creatividad y liderazgo."
+    }
+  }
+  

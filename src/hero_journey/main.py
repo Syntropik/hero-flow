@@ -7,14 +7,15 @@ from pydantic import BaseModel
 
 from crewai.flow.flow import Flow, listen, start
 
-from hero_journey.crews.astrology_outline_v3.astrology_outline import AstrologyOutline
+from hero_journey.crews.astrology_outline_v5.astrology_outline import AstrologyOutline
 from hero_journey.crews.narrative_outline.narrative_outline import NarrativeOutline
 from hero_journey.crews.book_writer.book_writer import BookWriter
 
 from hero_journey.types import (
     Chapter,
     ChapterOutline,
-    CharacterProfile
+    CharacterProfile,
+    FinalOutput
 )
 
 
@@ -22,7 +23,7 @@ class BookState(BaseModel):
     title: str = "El viaje del héroe"
     book: List[Chapter] = []
     book_outline: List[ChapterOutline] = [] 
-    character_profile: Optional[CharacterProfile] = None
+    astrology_outline: Optional[FinalOutput] = None
 
 
 class BookFlow(Flow[BookState]):
@@ -41,10 +42,11 @@ class BookFlow(Flow[BookState]):
             print(f"Archivo encontrado en: {file_path}")
 
         # Ejecuta la tarea con el `file_path` como entrada
-        character_profile = AstrologyOutline().crew().kickoff(
+        astrology_outline = AstrologyOutline().crew().kickoff(
             inputs={"file_path": file_path}  # Pasa el path absoluto
         ).pydantic
-        self.state.character_profile = character_profile
+        self.state.astrology_outline = astrology_outline
+        print(astrology_outline)
 '''
     @listen(generate_astrology_outline)
     def generate_narrative_outline(self):

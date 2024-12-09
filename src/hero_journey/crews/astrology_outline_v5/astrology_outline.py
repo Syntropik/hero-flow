@@ -59,7 +59,7 @@ class AstrologyOutline:
             tools=[file_read_tool],
             verbose=True
         )
-
+    '''
     @agent 
     def story_consultant(self) -> Agent:
         file_path = "C:\\Users\\pc\\Documents\\Projects\\astroFlow\\hero_journey\\src\\hero_journey\\data\\SLA.json"
@@ -96,9 +96,9 @@ class AstrologyOutline:
             tools=[file_read_tool],
             verbose=True
         )
-
-    
-# Mike nueva Task
+    '''
+   
+    # Mike nueva Task
     @task
     def sla_astrological_profile(self) -> Task:
         return Task(
@@ -120,7 +120,7 @@ class AstrologyOutline:
             input_pydantic=StrengthsOutput,
             output_pydantic=ConflictsOutput,
         )
-
+    '''
     @task
     def arc_astrological_profile(self) -> Task:
         return Task(
@@ -177,7 +177,7 @@ class AstrologyOutline:
             input_pydantic=ReviewOutput,
             output_pydantic=FinalOutput,
         )
-
+    '''
     @crew
     def crew(self) -> Crew:
         """Creates the AstrologyOutline crew"""

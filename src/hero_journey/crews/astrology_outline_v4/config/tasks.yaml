@@ -61,6 +61,7 @@ fortalezas_astrological_profile:
       - Ejemplos prácticos y cotidianos de cómo el niño manifiesta estas fortalezas en actividades diarias (ej. "su creatividad lo lleva a inventar historias cuando juega solo").  
     2. Relación entre las fortalezas y el desarrollo emocional del niño.
     3. Reflexión sobre cómo estas virtudes pueden contribuir a su evolución y propósito personal, motivando al niño a aceptarlas y potenciarlas.
+
   example_output: >
     Habilidades naturales:
     1. Empatía:
@@ -91,7 +92,8 @@ retos_astrological_profile:
   expected_output: >
     1. Lista de al menos 4 desafíos específicos:
       - Descripción de cada reto, vinculado a los elementos astrológicos del niño.  
-      - Ejemplos claros y generalizados de cómo podrían aparecer estos retos en su vida diaria (ej. "se frustra fácilmente cuando las cosas no salen como quiere").  
+      - Ejemplos claros y generalizados de cómo podrían aparecer estos retos en su vida diaria (ej. "se frustra fácilmente cuando las cosas no salen como quiere", 
+      "Necesita sentirse validado por los demás para reconocer su valor", "Prefiere no mostrar sus emociones porque teme que le vean como débil o inadecuado").  
     2. Impacto emocional o social que estos retos podrían tener (ej. inseguridades, problemas de comunicación).  
     3. Sugerencias prácticas para superar estos desafíos: ejercicios simples, cambios de enfoque o actitudes que el niño pueda implementar.  
     4. Resumen que conecte estos retos con su crecimiento personal y aprendizaje.
@@ -129,79 +131,128 @@ retos_astrological_profile:
 
 arc_astrological_profile:
   description: >
-    Diseña un arco de desarrollo basado en las influencias astrológicas del niño. Este arco debe reflejar su evolución emocional y personal, partiendo de sus desafíos hasta alcanzar una expresión positiva de sus virtudes.  
-    Estructura el arco en tres partes:
-      - **Punto de partida emocional:** inseguridades y conflictos internos que enfrenta en su día a día.  
-      - **Transformación esperada:** herramientas y aprendizajes que puede desarrollar para manejar sus desafíos.  
-      - **Punto de culminación:** cómo estas habilidades y virtudes le ayudan a crecer y expresarse plenamente.  
+    Diseña un arco de desarrollo basado en las influencias astrológicas del niño. Este arco debe reflejar su evolución emocional y personal, comenzando por sus desafíos y culminando en una expresión positiva de sus virtudes.  
+    Estructura el arco en tres partes, con subfases que profundicen en los detalles de su crecimiento:
+      - **Punto de partida emocional:** Inseguridades y conflictos internos que enfrenta en su día a día. Incluye eventos iniciales, pensamientos limitantes y circunstancias que refuercen su estado emocional inicial.  
+      - **Transformación esperada:** Eventos clave, aprendizajes, aliados o mentores, y momentos de duda que lo lleven a un cambio tangible y progresivo.  
+      - **Punto de culminación:** Cómo consolida su transformación, aplica sus aprendizajes en situaciones prácticas y conecta con su entorno mediante su superpoder.  
+    Además, incorpora elementos simbólicos, evolución emocional y el impacto de sus cambios en su entorno.
 
   expected_output: >
-    1. **Punto de partida:**  
-      - Descripción de las dificultades principales y cómo se manifiestan en su vida cotidiana.  
+    1. **Punto de partida emocional:**  
+      - Detalla el entorno del niño (familia, escuela, amigos) y cómo influye en su inseguridad inicial.  
+      - Identifica pensamientos limitantes clave y creencias negativas sobre sí mismo.  
+      - Define el conflicto interno más evidente que motiva su insatisfacción inicial.  
+      - Incluye al menos un evento inicial que ponga en evidencia sus inseguridades.  
     2. **Transformación esperada:**  
-      - Herramientas emocionales y prácticas que desarrollará en su viaje.  
-      - Ejemplos de cómo podría empezar a superar sus inseguridades.  
+      - Describe eventos clave o desafíos externos que promuevan su cambio.  
+      - Detalla los pasos internos de su transformación: aprendizajes, cambios de mentalidad y emociones en evolución.  
+      - Introduce aliados o mentores, y explica cómo contribuyen a su desarrollo.  
+      - Identifica un momento de duda o recaída emocional y cómo lo supera.  
+      - Explica un cambio tangible en su comportamiento.  
     3. **Punto de culminación:**  
-      - Ejemplo concreto de cómo el niño aplica sus aprendizajes y virtudes en su vida diaria (ej. "empieza a comunicarse mejor con sus amigos, compartiendo cómo se siente sin miedo").  
-    4. Resumen que conecte su crecimiento con la idea de un viaje del héroe adaptado a su realidad.
+      - Describe cómo el personaje consolida sus aprendizajes.  
+      - Explica un evento significativo donde aplique su superpoder o nueva perspectiva.  
+      - Muestra cómo resuelve su conflicto principal y conecta con el entorno, inspirando a otros.  
+    4. **Desarrollo adicional:**  
+      - Simbología narrativa: Incluye objetos, lugares o situaciones que refuercen su evolución.  
+      - Impacto en el entorno: Detalla cómo los cambios en el niño influyen en su entorno familiar o social.  
+      - Cierre circular: Vincula el final de su viaje con el inicio, mostrando cómo supera sus inseguridades originales.  
+
   example_output: >
-    El arco de desarrollo de Kai refleja su viaje desde la inseguridad y la
-    necesidad de validación externa hasta la aceptación y confianza en su valor intrínseco.
-    Este proceso es esencial para su crecimiento emocional y para construir una base
-    sólida que le ayude en futuras etapas de su vida.
-    Punto de partida emocional:
-    - Confusión e inseguridad: Kai comienza la historia sintiéndose inseguro sobre su
-    valor personal.
-    - Dependencia de la aprobación externa: Cree que sólo será apreciado si
-    sobresale en áreas visibles como los deportes, las notas escolares o la popularidad.
-    - Represión emocional: Tiende a ocultar sus emociones por parecer fuerte,
-    pero esto le hace sentir desconectado de sí mismo.
-    Transformación esperada:
-    1. Autoconocimiento:
-    - Kai descubre que sus cualidades innatas (empatía, creatividad,
-    intuición) son la base de su valor personal.
-    - Comprende que no necesita ser "como los demás" para ser valioso.
-    2. Confianza y aceptación:
-    - Deja de buscar constantemente validación externa.
-    - Se da cuenta de que su autenticidad y forma de ser son suficientes para
-    destacar y ser apreciado.
-    3. Gestión emocional equilibrada:
-    - Aprende a aceptar sus emociones como una parte natural de sí mismo.
-    - Desarrolla la capacidad de compartir sus sentimientos sin miedo a
-    ser juzgado.
-    Punto de culminación:
-    - Reconocimiento de su superpoder:
-    Kai entiende que su superpoder no es "hacerlo todo perfecto", sino ser él mismo
-    con seguridad y autenticidad.
-    - Aplicación práctica:
-    Al final de la historia, Kai utiliza esta nueva confianza para enfrentarse a
-    situaciones cotidianas (ayudar a un amigo, gestionar un conflicto en clase) con una
-    perspectiva positiva y autónoma.
+    El arco de desarrollo de Kai muestra su evolución desde la inseguridad y la necesidad de validación externa hasta la aceptación plena de su autenticidad, integrando aprendizajes prácticos y emocionales.
+
+    **1. Punto de partida emocional:**
+    - Contexto: En su entorno escolar, Kai duda constantemente de su capacidad para destacar. Su profesor suele señalar sus distracciones, y siente que sus amigos no valoran sus ideas. En casa, sus padres lo animan, pero él no siempre les expresa sus miedos.
+    - Pensamientos limitantes: "Si no soy perfecto, no me van a aceptar". "Mis ideas no son lo suficientemente buenas".
+    - Conflicto principal: Quiere destacar y ser único, pero teme ser rechazado o incomprendido.
+    - Evento inicial: En un proyecto grupal en la escuela, su idea para mejorar el jardín es ignorada por sus compañeros, lo que lo hace retraerse.
+
+    **2. Transformación esperada:**
+    - Evento clave: Su profesora lo felicita en privado por su creatividad, animándolo a expresarse más. Esto lo impulsa a buscar aliados en su grupo de amigos.
+    - Primer aprendizaje: Empieza a compartir sus ideas con un amigo cercano, quien lo apoya y lo ayuda a desarrollarlas. Esto refuerza su confianza.
+    - Momento de duda: Durante una presentación en clase, tiene miedo de compartir sus ideas por temor a ser juzgado. Sin embargo, su mentor le recuerda que su autenticidad es su fortaleza.
+    - Cambio tangible: Comienza a organizar sus ideas y a expresarlas en pequeños pasos, logrando que sus compañeros lo escuchen.
+
+    **3. Punto de culminación:**
+    - Momento de claridad: Durante una feria escolar, Kai presenta un proyecto que combina creatividad e impacto social, y recibe el reconocimiento de sus compañeros.
+    - Resolución del conflicto: Supera su miedo al rechazo al darse cuenta de que no necesita aprobación constante para ser valioso.
+    - Aplicación práctica: Kai anima a otros niños a expresar sus ideas, liderando un club de creatividad en la escuela.
+
+    **4. Elementos narrativos adicionales:**
+    - Simbología: Su cuaderno de ideas, inicialmente desordenado, se convierte en un lugar organizado donde plasma su visión.
+    - Impacto en su entorno: Sus amigos comienzan a valorar más sus ideas, y sus padres notan su confianza creciente.
+    - Cierre circular: Recuerda el proyecto inicial del jardín y, al final, lidera la iniciativa con éxito, cerrando su historia de manera significativa.
 
   agent: story_consultant
 
-
-create_character_profile:
+environment_design:
   description: >
-    Desarrolla un perfil completo del niño basado en el análisis astrológico. Integra sus características clave (virtudes y desafíos) y su arco de desarrollo personal.  
-    Este perfil debe ser una base sólida para definir su personaje y narrar su crecimiento.  
+    Diseña escenarios y sub-escenarios narrativos que reflejen los desafíos y fortalezas del niño según su carta natal.  
+    Incluye elementos simbólicos y estructuras que estimulen su creatividad, fortalezcan su autoconocimiento y le permitan enfrentar sus miedos.  
+    Asegúrate de que el escenario principal sea coherente con los temas astrológicos clave y represente el viaje del personaje.
 
   expected_output: >
-    1. **Personalidad:**  
-      - Descripción de cómo las energías del Sol, Luna y Ascendente moldean su comportamiento en casa, la escuela y con amigos.  
-      - Identificación de patrones de comportamiento que el niño puede reconocer en sí mismo.  
-    2. **Arco de desarrollo:**  
-      - Viaje emocional desde sus retos iniciales hasta la aceptación de sus virtudes y superación de sus desafíos.  
-      - Ejemplos cotidianos que muestren esta evolución.  
-    3. **Misión y propósito:**  
-      - Conexión entre las influencias astrológicas y una misión personal accesible para el niño (ej. "aprender a confiar más en sí mismo").  
-    4. **Escenario y ambiente:**  
-      - Descripción de entornos reales donde el niño pueda aplicar y experimentar su crecimiento (ej. "el aula como un espacio para probar su creatividad y trabajar en su confianza").  
-  expected_output: >
-    Un perfil de personaje estructurado que incluya:
-    - Descripción detallada de la personalidad y su origen astrológico
-    - Análisis de virtudes y desafíos como elementos de desarrollo
-    - Misión y motivaciones claras
-    - Tono emocional y energético del personaje
-    - Escenario y elementos narrativos que apoyen su desarrollo
+    1. **Escenario principal:** Un entorno diseñado con descripciones detalladas que simbolicen los temas astrológicos clave.  
+    2. **Sub-escenarios simbólicos:** Tres escenarios secundarios que reflejen conflictos internos específicos del niño.  
+    3. **Elementos narrativos:** Objetos o elementos del entorno que fomenten su crecimiento personal (ej. un lago que refleje sus emociones).  
+
   agent: story_consultant
+
+character_mentor_design:
+  description: >
+    Diseña personajes secundarios que actúen como guías, aliados o antagonistas del niño.  
+    Asegúrate de que estos personajes estén relacionados con las cualidades y desafíos astrológicos del niño, proporcionando apoyo o conflicto para potenciar su desarrollo emocional y personal.
+
+  expected_output: >
+    1. **Mentor:** Un personaje diseñado con descripciones detalladas que actúe como guía en el viaje del niño.  
+    2. **Aliado:** Un personaje que comparta intereses o fortalezas con el niño, ayudándolo a crecer.  
+    3. **Antagonista:** Un personaje que represente un desafío o conflicto significativo en la narrativa.  
+
+  agent: story_consultant
+
+symbolism_design:
+  description: >
+    Diseña elementos simbólicos que refuercen los temas astrológicos y el arco emocional del niño.  
+    Asegúrate de incluir objetos significativos, escenarios y rituales simbólicos que representen su progreso y crecimiento personal.
+
+  expected_output: >
+    1. **Objetos simbólicos:** Un objeto significativo que acompañe al niño en su viaje.  
+    2. **Escenarios simbólicos:** Descripciones detalladas de escenarios que reflejen su evolución emocional.  
+    3. **Animales simbólicos:** Un animal guía relacionado con sus fortalezas astrológicas.  
+    4. **Rituales simbólicos:** Una acción recurrente que simbolice su crecimiento personal.  
+
+  agent: story_consultant
+
+integrate_elements:
+  description: >
+    Combina los elementos del escenario, personajes secundarios y simbología en una narrativa rica y coherente.  
+    Asegúrate de que cada componente refuerce los temas astrológicos del niño y su arco de desarrollo personal.
+
+  expected_output: >
+    1. **Escenario integrado:** Un entorno cohesivo que combina escenarios principales y simbólicos.  
+    2. **Interacciones:** Relaciones significativas entre personajes secundarios y el niño, conectadas con sus retos y aprendizajes.  
+    3. **Narrativa enriquecida:** Un análisis de cómo el entorno y los personajes apoyan su transformación personal.  
+
+  agent: narrative_integrator
+
+final_review:
+  description: >
+    Revisa todo el contenido generado hasta ahora para garantizar que sea adecuado para niños de 8 a 12 años.  
+    Asegúrate de que los elementos narrativos (escenarios, personajes, simbología) sean apropiados para la edad, evitando tonos oscuros, imágenes aterradoras o referencias que puedan causar malestar.  
+    Proporciona sugerencias específicas para ajustar cualquier elemento inapropiado.
+  expected_output: >
+    1. **Lista de elementos revisados:** Resumen de los aspectos clave revisados (escenarios, personajes, simbología, narrativa).  
+    2. **Identificación de elementos inapropiados:** Lista detallada de cualquier elemento que no sea adecuado, con explicaciones claras.  
+    3. **Sugerencias de ajuste:** Recomendaciones específicas para modificar los elementos problemáticos manteniendo la coherencia con el arco narrativo y el perfil astrológico.  
+  agent: content_reviewer
+
+prepare_final_output:
+  description: >
+    Recopila toda la información generada, aplica las correcciones de la revisión final y organiza el contenido en un formato limpio y estructurado.  
+    Este paso asegura que todos los elementos (astrológicos, narrativos y revisados) estén integrados y listos para ser consumidos por la siguiente crew.  
+  expected_output: >
+    1. **Perfil astrológico consolidado:** Una descripción completa del niño, integrando su perfil psicológico, fortalezas y retos.  
+    2. **Narrativa integrada:** Un entorno narrativo que combine el arco de desarrollo, escenarios, personajes secundarios y elementos simbólicos.  
+    3. **Correcciones aplicadas:** Refleja los ajustes realizados en la revisión final.  
+  agent: output_preparer

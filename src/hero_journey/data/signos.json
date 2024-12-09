@@ -1,0 +1,111 @@
+{
+    "Aries": {
+      "elemento": "Fuego",
+      "modalidad": "Cardinal",
+      "palabrasClave": ["Acción", "Valentía", "Liderazgo", "Impulso"],
+      "energiaPrincipal": "Aries es el pionero del Zodiaco, lleno de energía, entusiasmo y un deseo innato de tomar la iniciativa. Es el signo de los comienzos y del empuje hacia adelante.",
+      "fortalezas": ["Valientes", "Decididos", "Enérgicos", "Auténticos"],
+      "sombras": ["Impacientes", "Impulsivos", "Demasiado competitivos"],
+      "leccionEspiritual": "Cultivar la paciencia y aprender a considerar las necesidades de los demás en su búsqueda de acción y éxito."
+    },
+    "Tauro": {
+      "elemento": "Tierra",
+      "modalidad": "Fija",
+      "palabrasClave": ["Estabilidad", "Sensualidad", "Perseverancia", "Materialidad"],
+      "energiaPrincipal": "Tauro es el signo de la estabilidad, la seguridad y la conexión con los placeres sensoriales de la vida. Busca construir una base sólida y disfrutar de las comodidades materiales.",
+      "fortalezas": ["Confiables", "Prácticos", "Pacientes", "Leales"],
+      "sombras": ["Tercos", "Posesivos", "Apegados a lo material"],
+      "leccionEspiritual": "Aprender a fluir con los cambios y desprenderse de la rigidez en sus creencias o posesiones."
+    },
+    "Geminis": {
+      "elemento": "Aire",
+      "modalidad": "Mutable",
+      "palabrasClave": ["Comunicación", "Curiosidad", "Adaptabilidad", "Intelecto"],
+      "energiaPrincipal": "Géminis es el signo de la mente activa y la comunicación. Representa el intercambio de ideas, la versatilidad y la búsqueda de conocimiento.",
+      "fortalezas": ["Ingeniosos", "Sociables", "Curiosos", "Rápidos para adaptarse"],
+      "sombras": ["Dispersos", "Superficiales", "Inconstantes"],
+      "leccionEspiritual": "Profundizar en sus intereses y aprender a escuchar con atención para equilibrar su necesidad de expresión."
+    },
+    "Cancer": {
+      "elemento": "Agua",
+      "modalidad": "Cardinal",
+      "palabrasClave": ["Emoción", "Cuidado", "Protección", "Intuición"],
+      "energiaPrincipal": "Cáncer es el signo del hogar y las emociones profundas. Se centra en la protección, la conexión con las raíces y la búsqueda de seguridad emocional.",
+      "fortalezas": ["Empáticos", "Intuitivos", "Protectores", "Leales"],
+      "sombras": ["Demasiado emocionales", "Retraídos", "Aferrados al pasado"],
+      "leccionEspiritual": "Cultivar confianza emocional y aprender a dar sin dejar de cuidar su propia vulnerabilidad."
+    },
+    "Leo": {
+      "elemento": "Fuego",
+      "modalidad": "Fija",
+      "palabrasClave": ["Creatividad", "Confianza", "Carisma", "Liderazgo"],
+      "energiaPrincipal": "Leo representa la energía del brillo personal, la autenticidad y la autoexpresión. Es un signo que busca vivir con pasión y reconocimiento.",
+      "fortalezas": ["Carismáticos", "Generosos", "Entusiastas", "Líderes naturales"],
+      "sombras": ["Egocéntricos", "Dramáticos", "Necesitan atención excesiva"],
+      "leccionEspiritual": "Aprender a brillar sin eclipsar a los demás, y encontrar valor en sí mismos sin depender de la validación externa."
+    },
+    "Virgo": {
+      "elemento": "Tierra",
+      "modalidad": "Mutable",
+      "palabrasClave": ["Organización", "Análisis", "Perfección", "Servicio"],
+      "energiaPrincipal": "Virgo es el signo del detalle, el trabajo práctico y la búsqueda de la perfección. Su energía se enfoca en mejorar y ser útil a los demás.",
+      "fortalezas": ["Organizados", "Meticulosos", "Analíticos", "Serviciales"],
+      "sombras": ["Críticos", "Perfeccionistas", "Preocupados por los pequeños detalles"],
+      "leccionEspiritual": "Aprender a aceptar la imperfección y encontrar belleza en lo imperfecto, tanto en ellos mismos como en los demás."
+    },
+    "Libra": {
+      "elemento": "Aire",
+      "modalidad": "Cardinal",
+      "palabrasClave": ["Equilibrio", "Belleza", "Relaciones", "Justicia"],
+      "energiaPrincipal": "Libra es el signo de las relaciones, el arte y la armonía. Busca la belleza y el equilibrio en todos los aspectos de la vida.",
+      "fortalezas": ["Diplomáticos", "Encantadores", "Cooperativos", "Justos"],
+      "sombras": ["Indecisos", "Complacientes", "Temor al conflicto"],
+      "leccionEspiritual": "Aprender a tomar decisiones firmes y valorar su individualidad sin depender de la aprobación externa."
+    },
+    "Escorpio": {
+      "elemento": "Agua",
+      "modalidad": "Fija",
+      "palabrasClave": ["Intensidad", "Transformación", "Misterio", "Pasión"],
+      "energiaPrincipal": "Escorpio es el signo de la profundidad emocional, la transformación y la conexión con lo oculto. Su energía es intensa y regeneradora.",
+      "fortalezas": ["Apasionados", "Leales", "Valientes", "Transformadores"],
+      "sombras": ["Celosos", "Controladores", "Obsesivos"],
+      "leccionEspiritual": "Aprender a soltar lo que ya no sirve y abrazar los cambios con confianza, sin miedo a la vulnerabilidad."
+    },
+    "Sagitario": {
+      "elemento": "Fuego",
+      "modalidad": "Mutable",
+      "palabrasClave": ["Aventura", "Optimismo", "Sabiduría", "Exploración"],
+      "energiaPrincipal": "Sagitario representa la expansión, el aprendizaje y la búsqueda de sentido en la vida. Es un signo de exploración tanto física como intelectual.",
+      "fortalezas": ["Optimistas", "Generosos", "Espontáneos", "Amantes de la libertad"],
+      "sombras": ["Impacientes", "Exagerados", "Huyen del compromiso"],
+      "leccionEspiritual": "Equilibrar su deseo de expansión con un sentido de estabilidad y responsabilidad."
+    },
+    "Capricornio": {
+      "elemento": "Tierra",
+      "modalidad": "Cardinal",
+      "palabrasClave": ["Disciplina", "Ambición", "Responsabilidad", "Perseverancia"],
+      "energiaPrincipal": "Capricornio es el signo de la estructura, la meta a largo plazo y la búsqueda de logros sólidos y duraderos.",
+      "fortalezas": ["Trabajadores", "Realistas", "Organizados", "Resilientes"],
+      "sombras": ["Fríos", "Obsesionados con el éxito", "Exigentes"],
+      "leccionEspiritual": "Aprender a equilibrar la ambición con el disfrute de la vida y la conexión emocional."
+    },
+    "Acuario": {
+      "elemento": "Aire",
+      "modalidad": "Fija",
+      "palabrasClave": ["Innovación", "Independencia", "Originalidad", "Visión"],
+      "energiaPrincipal": "Acuario es el signo de la mente futurista y las ideas innovadoras. Representa la búsqueda de la libertad y la conexión con el colectivo desde una perspectiva única.",
+      "fortalezas": ["Visionarios", "Humanitarios", "Originales", "Independientes"],
+      "sombras": ["Desapegados emocionalmente", "Testarudos", "Rebeldes"],
+      "leccionEspiritual": "Cultivar la conexión emocional mientras mantienen su independencia, y aceptar que no siempre es necesario ser \"diferente\" para ser valioso."
+    },
+    "Piscis": {
+      "elemento": "Agua",
+      "modalidad": "Mutable",
+      "palabrasClave": ["Empatía", "Imaginación", "Espiritualidad", "Compasión"],
+      "energiaPrincipal": "Piscis representa la sensibilidad, la conexión espiritual y la creatividad. Es el signo de los sueños, la intuición y la disolución del ego.",
+      "fortalezas": ["Compasivos", "Artísticos", "Intuitivos", "Espirituales"],
+      "sombras": ["Escapistas", "Poco prácticos", "Idealistas en exceso"],
+      "leccionEspiritual": "Aprender a mantener los pies en la tierra mientras exploran sus mundos internos, y distinguir entre la fantasía y la realidad."
+    }
+  }
+  
